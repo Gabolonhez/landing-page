@@ -3,7 +3,6 @@
 
 ## 📑 Descrição
 Site de landing page
-
       
 ## 💻 Tecnologias 
 `HTML`
