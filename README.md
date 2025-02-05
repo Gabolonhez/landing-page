@@ -5,7 +5,7 @@
 Site de landing page
       
 ## 💻 Tecnologias 
-`HTML`
-`CSS`
+- `HTML`
+- `CSS`
 
 
